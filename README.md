@@ -1,4 +1,4 @@
-# Car Price Prediction - Web scraping -> ETL -> Prediction -> Deployment
+# Car Price Prediction - Web scraping -> Preprocessing -> Prediction -> Deployment
 ## Overview
 This is a Flask web app which predicts the price of used car based on its make, model, bodystyle, mileage, year, and location.
 ### Data
