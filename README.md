@@ -11,8 +11,13 @@ For estimating used car prices, I have used Gradient Boosting Tree regression mo
 <img src="static/Screen Shot 2022-11-28 at 12.51.47 AM.png">
 
 ### Future scope
-Use multiple Algorithms
-Optimize Flask app.py
-Front-end
+$\bullet$ Use multiple Algorithms
+
+$\bullet$ Optimize Flask app.py
+
+$\bullet$ Front-end
+
   $\bullet$ Create dynamic dropdown with search box
-  Automplete input suggestion
+  
+  $\bullet$ Automplete input suggestion
+  
