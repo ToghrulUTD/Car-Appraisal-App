@@ -15,9 +15,5 @@ $\bullet$ Use multiple Algorithms
 
 $\bullet$ Optimize Flask app.py
 
-$\bullet$ Front-end
-
-  $\bullet$ Create dynamic dropdown with search box
-  
-  $\bullet$ Automplete input suggestion
+$\bullet$ Front-end - Create dynamic dropdown with search box, Automplete input suggestion
   
